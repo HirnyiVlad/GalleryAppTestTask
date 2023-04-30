@@ -14,9 +14,7 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
-/*
-This test task was developed by Hirnyi Vladyslav for Qulisoft IT Development Company
- */
+
 class MainActivity : AppCompatActivity() {
 
     private var binding: ActivityMainBinding? = null
